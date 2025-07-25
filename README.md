@@ -1,26 +1,71 @@
-Video Game Store
+# Video Game Store 🎮 | HTML + CSS + JavaScript Website
 
-Description
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-Deployed-brightgreen?style=flat&logo=netlify&logoColor=white)
 
-This project was developed as part of a Front-End course on the Udemy platform. It is an e-commerce website for a video game store, showcasing products with a modern and responsive design. The project focuses on delivering a seamless user experience through well-structured HTML and CSS
+A fictional **video game e-commerce landing page** built with **HTML, CSS, and vanilla JavaScript**. This static site is designed to display featured games, pricing, and promotional content with a modern and bold layout.
 
-Solution Link
-https://github.com/Aleji0309/proyectaTiendaVideoJuegos/tree/main/Tienda
-GitHub - Video Game Store
+## 🌐 Live Preview
 
-Live Site Link
-https://tiendavideojusegos.netlify.app/
+- 🔗 **Live Website**: [https://tiendavideojusegos.netlify.app](https://tiendavideojusegos.netlify.app)  
+- 📁 **GitHub Repository**: [https://github.com/Aleji0309/proyectaTiendaVideoJuegos](https://github.com/Aleji0309/proyectaTiendaVideoJuegos)
 
+## 🛠️ Technologies Used
 
-Technologies Used
-HTML
-CSS
+- **HTML5** – Page structure and content layout  
+- **CSS3** – Styling, grid system, and responsive design  
+- **JavaScript (ES6+)** – Basic interactivity and dynamic effects  
+- **Netlify** – Deployment and hosting
 
-What I Learned
-Through this project, I enhanced my front-end development skills by implementing a structured layout, responsive design, and interactive elements. It allowed me to strengthen my knowledge of CSS Grid, and Flexbox functionalities for an improved user experience.
+## 📋 Project Description
 
-Ongoing Development
-I plan to continue refining the project by optimizing performance, adding new features, and potentially integrating a back-end solution for dynamic content management.
+This landing page simulates an online video game store with sections for:
 
-Author
-Ale Leandro Jiménez
+- Featured games  
+- Hero banner with promotional text  
+- Pricing cards  
+- Navigation menu and call-to-action buttons
+
+It's fully static, fast-loading, and responsive. The use of colors, typography, and imagery aligns with the gaming aesthetic.
+
+## 📌 Key Features
+
+- Hero section with strong branding  
+- Game showcase cards with descriptions and prices  
+- Responsive layout for all screen sizes  
+- JavaScript used for minor UI interactions  
+- Clean and consistent visual design
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Aleji0309/proyectaTiendaVideoJuegos.git
+````
+
+2. Navigate to the folder:
+
+```bash
+cd proyectaTiendaVideoJuegos
+```
+
+3. Open `index.html` in your browser.
+
+> This project runs entirely in the browser — no dependencies or installation required.
+
+## 👤 About Me
+
+I'm a front-end developer passionate about combining design and code. This project helped me explore visual composition, product card layouts, and creative theming — all using core web technologies.
+
+## 📬 Contact & Profiles
+
+* 🌐 **Portfolio**: [https://proyectaportafolioweb.netlify.app/#xp](https://proyectaportafolioweb.netlify.app/#xp)
+* 💼 **LinkedIn**: [https://www.linkedin.com/in/ale-leandro-jimenez-408280241/](https://www.linkedin.com/in/ale-leandro-jimenez-408280241/)
+* 💌 **Email**: [aleandro0309@gmail.com](mailto:aleandro0309@gmail.com)
+* 🧩 **Frontend Mentor**: [https://www.frontendmentor.io/profile/Aleji0309](https://www.frontendmentor.io/profile/Aleji0309)
+
+---
+
